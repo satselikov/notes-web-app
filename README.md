@@ -16,8 +16,19 @@ Project is created with:
 
 ## Setup
 To run this project:
-- Download it locally and run `main.py`
-- Install any needed libraries to run the application (python, flask, sqlalchemy) 
+- Make sure you have the latest version of Python installed.
+```bash
+git clone <repo-url>
+```
+
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+python main.py
+```
+
 - Open up `http://127.0.0.1:5000/`
 
 ## User Guide
