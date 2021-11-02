@@ -16,9 +16,9 @@ Project is created with:
 
 ## Setup
 To run this project:
-- Download it locally and run main.py
+- Download it locally and run `main.py`
 - Install any needed libraries to run the application (python, flask, sqlalchemy) 
-- Open up http://127.0.0.1:5000/ 
+- Open up `http://127.0.0.1:5000/`
 
 ## User Guide
 - Sign up for an account. Make sure your email, name, and password is long enough. Make sure passwords match.
